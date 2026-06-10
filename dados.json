@@ -1,0 +1,32 @@
+{
+  "atualizado": "10/06/2026",
+  "fonte": "Curadoria via web (Cepea/Scot/Notícias Agrícolas/Conseleite/DBO/Emater). Valores de referência, datados — não é feed de bolsa em tempo real.",
+  "arroba": { "norteMG": 320, "cepea": 361, "vacaMG": 306, "sp": 361 },
+  "cestas": {
+    "🐂 Gado": [
+      { "item": "Boi gordo", "val": "R$ 320", "un": "/@ MG", "tend": "down" },
+      { "item": "Vaca gorda", "val": "R$ 306", "un": "/@ MG", "tend": "flat" },
+      { "item": "Bezerro (reposição)", "val": "R$ 3.300", "un": "/cab Nelore", "tend": "up" }
+    ],
+    "🧀 Leite & Queijo": [
+      { "item": "Leite ao produtor", "val": "R$ 2,45", "un": "/litro MG", "tend": "up" },
+      { "item": "Queijo Minas Artesanal", "val": "R$ 25,61", "un": "/kg produtor", "tend": "up" }
+    ],
+    "🍯 Mel": [
+      { "item": "Mel ao produtor", "val": "R$ 14,00", "un": "/kg", "tend": "flat" }
+    ],
+    "🌽 Insumos & Câmbio": [
+      { "item": "Milho", "val": "R$ 70", "un": "/saca 60kg", "tend": "flat" },
+      { "item": "Soja", "val": "R$ 128", "un": "/saca 60kg", "tend": "up" },
+      { "item": "Dólar", "val": "R$ 5,18", "un": "/US$", "tend": "up" }
+    ]
+  },
+  "noticias": [
+    { "tag": "Mercado", "ico": "📉", "cor": "warn", "t": "Arroba firme, mas pressionada", "d": "Boi gordo em MG na faixa de <b>~R$ 320/@</b> (R$ 317–322 conforme a região). Seca e cota chinesa limitam alta no curto prazo." },
+    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "warn", "t": "Cota chinesa perto do limite", "d": "Cota de 1,10 mi t sem a tarifa adicional de 55%; dúvida de quando o Brasil satura. Freada nos embarques pressiona o preço interno." },
+    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar a R$ 5,18", "d": "Câmbio alto ajuda a exportação de carne — suporte ao preço do boi mesmo com a cota apertando." },
+    { "tag": "Clima", "ico": "🌧️", "cor": "info", "t": "Período seco (jun–set)", "d": "Pasto perde qualidade; silagem e suplementação viram prioridade. Custo de manter sobe." },
+    { "tag": "Leite", "ico": "🥛", "cor": "ok", "t": "Leite reage em MG", "d": "Preço ao produtor subiu ~11% em abril (~R$ 2,45/L). Reforça a tese do queijo (QMA ~R$ 25,61/kg) como diversificação regional." },
+    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro valorizado", "d": "Reposição firme em MG (bezerro Nelore ~R$ 3.300/cab) — favorável para quem é cria como a Gameleira." }
+  ]
+}

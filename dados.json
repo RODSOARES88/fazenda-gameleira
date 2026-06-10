@@ -1,32 +1,32 @@
 {
   "atualizado": "10/06/2026",
-  "fonte": "Curadoria via web (Cepea/Scot/Notícias Agrícolas/Conseleite/DBO/Emater). Valores de referência, datados — não é feed de bolsa em tempo real.",
-  "arroba": { "norteMG": 320, "cepea": 361, "vacaMG": 306, "sp": 361 },
+  "fonte": "Curadoria via web (Cepea/Esalq, Scot Consultoria, Notícias Agrícolas, FarmNews/Abrafrigo, Conseleite-MG, Emater-MG). Valores de referência, datados — não é feed de bolsa em tempo real.",
+  "arroba": { "norteMG": 322, "cepea": 348, "vacaMG": 306, "sp": 348 },
   "cestas": {
     "🐂 Gado": [
-      { "item": "Boi gordo", "val": "R$ 320", "un": "/@ MG", "tend": "down" },
+      { "item": "Boi gordo", "val": "R$ 322", "un": "/@ MG", "tend": "up" },
       { "item": "Vaca gorda", "val": "R$ 306", "un": "/@ MG", "tend": "flat" },
       { "item": "Bezerro (reposição)", "val": "R$ 3.300", "un": "/cab Nelore", "tend": "up" }
     ],
     "🧀 Leite & Queijo": [
-      { "item": "Leite ao produtor", "val": "R$ 2,45", "un": "/litro MG", "tend": "up" },
-      { "item": "Queijo Minas Artesanal", "val": "R$ 25,61", "un": "/kg produtor", "tend": "up" }
+      { "item": "Leite ao produtor", "val": "R$ 2,55", "un": "/litro MG", "tend": "up" },
+      { "item": "Queijo Minas Artesanal", "val": "R$ 25,61", "un": "/kg produtor", "tend": "flat" }
     ],
     "🍯 Mel": [
-      { "item": "Mel ao produtor", "val": "R$ 14,00", "un": "/kg", "tend": "flat" }
+      { "item": "Mel ao produtor", "val": "R$ 14,50", "un": "/kg", "tend": "up" }
     ],
     "🌽 Insumos & Câmbio": [
-      { "item": "Milho", "val": "R$ 70", "un": "/saca 60kg", "tend": "flat" },
-      { "item": "Soja", "val": "R$ 128", "un": "/saca 60kg", "tend": "up" },
-      { "item": "Dólar", "val": "R$ 5,18", "un": "/US$", "tend": "up" }
+      { "item": "Milho", "val": "R$ 68", "un": "/saca 60kg", "tend": "down" },
+      { "item": "Soja", "val": "R$ 128", "un": "/saca 60kg", "tend": "flat" },
+      { "item": "Dólar", "val": "R$ 5,18", "un": "/US$", "tend": "flat" }
     ]
   },
   "noticias": [
-    { "tag": "Mercado", "ico": "📉", "cor": "warn", "t": "Arroba firme, mas pressionada", "d": "Boi gordo em MG na faixa de <b>~R$ 320/@</b> (R$ 317–322 conforme a região). Seca e cota chinesa limitam alta no curto prazo." },
-    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "warn", "t": "Cota chinesa perto do limite", "d": "Cota de 1,10 mi t sem a tarifa adicional de 55%; dúvida de quando o Brasil satura. Freada nos embarques pressiona o preço interno." },
-    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar a R$ 5,18", "d": "Câmbio alto ajuda a exportação de carne — suporte ao preço do boi mesmo com a cota apertando." },
-    { "tag": "Clima", "ico": "🌧️", "cor": "info", "t": "Período seco (jun–set)", "d": "Pasto perde qualidade; silagem e suplementação viram prioridade. Custo de manter sobe." },
-    { "tag": "Leite", "ico": "🥛", "cor": "ok", "t": "Leite reage em MG", "d": "Preço ao produtor subiu ~11% em abril (~R$ 2,45/L). Reforça a tese do queijo (QMA ~R$ 25,61/kg) como diversificação regional." },
-    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro valorizado", "d": "Reposição firme em MG (bezerro Nelore ~R$ 3.300/cab) — favorável para quem é cria como a Gameleira." }
+    { "tag": "Mercado", "ico": "📈", "cor": "ok", "t": "Boi firma no início de junho", "d": "Boi gordo em MG na faixa de <b>~R$ 322/@</b>. No começo do mês a arroba avançou <b>R$ 2</b> e o 'boi China' subiu <b>R$ 3/@</b>, com ritmo forte de embarques para China e EUA." },
+    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "ok", "t": "China puxa exportação recorde", "d": "China importou <b>153,87 mil t</b> em maio (quase 60% do total embarcado). No acumulado de 2026 são 614,75 mil t de uma cota de 1,10 mi t sem a tarifa extra de 55% — ainda restam ~485 mil t." },
+    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar a R$ 5,18", "d": "Câmbio firme sustenta a exportação de carne e dá suporte ao preço do boi no mercado interno." },
+    { "tag": "Clima", "ico": "🌧️", "cor": "warn", "t": "Seca e futuro cauteloso (jul–set)", "d": "Entramos no período seco: pasto perde qualidade e a suplementação encarece. O mercado futuro projeta <b>queda do boi entre julho e setembro</b> e estabilidade a partir de outubro." },
+    { "tag": "Leite", "ico": "🥛", "cor": "ok", "t": "Leite em alta em MG", "d": "Conseleite-MG aponta sucessivas altas (abril +11,58%, maio +9,3% pagos em junho), levando o produtor a <b>~R$ 2,55/L</b>. Reforça a tese do queijo (QMA ~R$ 25,61/kg) como diversificação." },
+    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro segue valorizando", "d": "Emater-MG: bezerro acumula alta de <b>~26%</b> e deve continuar subindo (Nelore ~R$ 3.300/cab) — cenário favorável para quem trabalha com cria, como a Gameleira." }
   ]
 }

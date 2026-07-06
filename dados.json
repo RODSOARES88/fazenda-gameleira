@@ -1,32 +1,32 @@
 {
-  "atualizado": "29/06/2026",
-  "fonte": "Curadoria via web (Scot Consultoria, Notícias Agrícolas, Portal DBO, Emater-MG, Conseleite-MG, Cepea/Esalq, Agência Minas). Valores de referência, datados — não é feed de bolsa em tempo real.",
-  "arroba": { "norteMG": 318, "cepea": 340, "vacaMG": 300, "sp": 350 },
+  "atualizado": "06/07/2026",
+  "fonte": "Curadoria via web (Scot Consultoria, Notícias Agrícolas, Portal DBO, Emater-MG, Conseleite-MG, Cepea/Esalq, Agrolink). Valores de referência, datados — não é feed de bolsa em tempo real.",
+  "arroba": { "norteMG": 308, "cepea": 335, "vacaMG": 288, "sp": 330 },
   "cestas": {
     "🐂 Gado": [
-      { "item": "Boi gordo", "val": "R$ 318", "un": "/@ MG", "tend": "down" },
-      { "item": "Vaca gorda", "val": "R$ 300", "un": "/@ MG", "tend": "down" },
-      { "item": "Bezerro (reposição)", "val": "R$ 3.345", "un": "/cab Nelore", "tend": "up" }
+      { "item": "Boi gordo", "val": "R$ 308", "un": "/@ MG", "tend": "down" },
+      { "item": "Vaca gorda", "val": "R$ 288", "un": "/@ MG", "tend": "down" },
+      { "item": "Bezerro (reposição)", "val": "R$ 3.335", "un": "/cab Nelore", "tend": "flat" }
     ],
     "🧀 Leite & Queijo": [
-      { "item": "Leite ao produtor", "val": "R$ 2,58", "un": "/litro MG", "tend": "down" },
+      { "item": "Leite ao produtor", "val": "R$ 2,59", "un": "/litro MG", "tend": "up" },
       { "item": "Queijo Minas Artesanal", "val": "R$ 25,61", "un": "/kg produtor", "tend": "flat" }
     ],
     "🍯 Mel": [
       { "item": "Mel ao produtor", "val": "R$ 14,50", "un": "/kg", "tend": "flat" }
     ],
     "🌽 Insumos & Câmbio": [
-      { "item": "Milho", "val": "R$ 57", "un": "/saca 60kg", "tend": "down" },
-      { "item": "Soja", "val": "R$ 124", "un": "/saca 60kg", "tend": "down" },
+      { "item": "Milho", "val": "R$ 57", "un": "/saca 60kg", "tend": "flat" },
+      { "item": "Soja", "val": "R$ 123", "un": "/saca 60kg", "tend": "down" },
       { "item": "Dólar", "val": "R$ 5,17", "un": "/US$", "tend": "flat" }
     ]
   },
   "noticias": [
-    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro firme: MG a ~R$ 3.345/cab", "d": "Portal DBO/Scot: o bezerro Nelore (210 kg) em Minas sinaliza preço médio de <b>~R$ 3.345/cab</b>, em recuperação. A Emater-MG confirma a valorização da reposição — cenário <b>favorável para a cria</b>, o produto da Gameleira." },
-    { "tag": "Mercado", "ico": "📉", "cor": "warn", "t": "Boi gordo recua no fim de junho", "d": "A arroba do boi em MG fechou junho perto de <b>R$ 318/@</b>, em queda. O Cepea acumula <b>~-2,6%</b> no mês com a exportação esfriando, mesmo com a oferta reduzida da seca." },
-    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "warn", "t": "China: cota perto de 95%, embarques travando", "d": "O Brasil já preencheu <b>~94,5%</b> da cota de 1,1 mi t; o esgotamento nos portos deve ocorrer entre <b>12 e 14 de julho</b>. Acima da cota a tarifa salta para <b>55%</b> e a Abiec projeta a exportação total caindo <b>~10%</b> em 2026." },
-    { "tag": "Leite", "ico": "🥛", "cor": "info", "t": "Conseleite-MG corta referência para ~R$ 2,58/L", "d": "A resolução de junho recuou o valor-base de <b>R$ 2,65 para R$ 2,58/L</b> (leite de maio). Mas mussarela e UHT subiram no parcial de junho, e o conselho projeta <b>+0,5%</b> de recuperação para o leite de junho." },
-    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar estável em R$ 5,17", "d": "O câmbio firme ainda ajuda a exportação, mas pesa menos diante da <b>sobretaxa chinesa de 55%</b> acima da cota. Variação quase nula na semana." },
-    { "tag": "Clima", "ico": "🌽", "cor": "ok", "t": "Milho mais barato alivia o custo da seca", "d": "O milho em MG recuou para <b>~R$ 57/saca</b>, e a soja para ~R$ 124. No período seco (jun–set), insumo mais barato <b>reduz o custo</b> de manter e suplementar o rebanho." }
+    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro firme: MG a ~R$ 3.335/cab", "d": "Notícias Agrícolas/Scot (03/07): o bezerro macho Nelore de reposição em Minas está a <b>R$ 3.335/cab</b> (R$ 13,90/kg), praticamente estável na semana e em patamar elevado. A reposição segue <b>aquecida</b> — cenário favorável para a cria, o produto da Gameleira." },
+    { "tag": "Mercado", "ico": "📉", "cor": "warn", "t": "Boi gordo perde mais de R$ 20/@ em duas semanas", "d": "A arroba do boi em MG recuou para <b>~R$ 308/@</b> no início de julho, com frigoríficos reduzindo compras para pressionar o mercado. Termômetro em <b>queda</b>, mas com expectativa de ajuste a partir de agosto pela menor oferta." },
+    { "tag": "Reposição", "ico": "🐄", "cor": "info", "t": "Escassez de matrizes sustenta o bezerro", "d": "Emater-MG/Cepea: o abate elevado de vacas e novilhas reduziu a base de matrizes, limitando a oferta de bezerros. O diferencial bezerro×boi chegou a <b>40,3%</b> em maio, o maior de 2026 — estrutura que <b>segura o preço da reposição</b> para cima." },
+    { "tag": "Leite", "ico": "🥛", "cor": "ok", "t": "Conseleite-MG eleva referência para R$ 2,59/L", "d": "Resolução de 24/06: o valor-base do leite (entregue em junho, pago em julho) sobe <b>+0,5%</b> para <b>R$ 2,5910/L</b>, com o valor médio a R$ 2,7753. Leve recuperação após meses de recuo." },
+    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar oscila em torno de R$ 5,17", "d": "O câmbio fechou 03/07 a <b>R$ 5,17</b> (-0,66% no dia), variando entre R$ 5,15 e R$ 5,22 na virada do mês. Câmbio firme ainda ajuda a exportação da carne." },
+    { "tag": "Mercado", "ico": "🇨🇳", "cor": "info", "t": "1º semestre fecha com boi em alta e China firme", "d": "Cepea: o boi gordo encerrou o 1º semestre de 2026 <b>em alta</b> (média de junho R$ 347/@ em SP), sustentado por baixa oferta e <b>forte demanda chinesa</b>. A alta participação de fêmeas no abate segue limitando a oferta futura." }
   ]
 }

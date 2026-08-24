@@ -1,12 +1,12 @@
 {
-  "atualizado": "17/08/2026",
-  "fonte": "Curadoria via web (Scot Consultoria via Notícias Agrícolas, Cepea/Esalq, FarmNews, Portal do Agronegócio, Inmet, Faemg-Senar/Sebrae, InfoMoney). Valores de referência, datados — não é feed de bolsa em tempo real.",
-  "arroba": { "norteMG": 333, "cepea": 346.75, "vacaMG": 308, "sp": 345.5 },
+  "atualizado": "24/08/2026",
+  "fonte": "Curadoria via web (Scot Consultoria via Notícias Agrícolas, Cepea/Esalq, Notícias Agrícolas, Grão Direto/Agron, Inmet, Faemg-Senar/Sebrae, InfoMoney). Valores de referência, datados — não é feed de bolsa em tempo real.",
+  "arroba": { "norteMG": 338, "cepea": 343.2, "vacaMG": 311, "sp": 343 },
   "cestas": {
     "🐂 Gado": [
-      { "item": "Boi gordo", "val": "R$ 333", "un": "/@ MG", "tend": "up" },
-      { "item": "Vaca gorda", "val": "R$ 308", "un": "/@ MG", "tend": "flat" },
-      { "item": "Bezerro (reposição)", "val": "R$ 3.400", "un": "/cab Nelore", "tend": "up" }
+      { "item": "Boi gordo", "val": "R$ 338", "un": "/@ MG", "tend": "up" },
+      { "item": "Vaca gorda", "val": "R$ 311", "un": "/@ MG", "tend": "up" },
+      { "item": "Bezerro (reposição)", "val": "R$ 3.601", "un": "/cab Nelore", "tend": "up" }
     ],
     "🧀 Leite & Queijo": [
       { "item": "Leite ao produtor", "val": "R$ 2,89", "un": "/litro MG", "tend": "flat" },
@@ -16,17 +16,17 @@
       { "item": "Mel ao produtor", "val": "R$ 14,50", "un": "/kg", "tend": "flat" }
     ],
     "🌽 Insumos & Câmbio": [
-      { "item": "Milho", "val": "R$ 66", "un": "/saca 60kg", "tend": "up" },
-      { "item": "Soja", "val": "R$ 138", "un": "/saca 60kg", "tend": "up" },
-      { "item": "Dólar", "val": "R$ 5,22", "un": "/US$", "tend": "up" }
+      { "item": "Milho", "val": "R$ 68", "un": "/saca 60kg", "tend": "up" },
+      { "item": "Soja", "val": "R$ 145", "un": "/saca 60kg", "tend": "up" },
+      { "item": "Dólar", "val": "R$ 5,14", "un": "/US$", "tend": "down" }
     ]
   },
   "noticias": [
-    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro em MG bate R$ 3.400/cab — novo topo do ano", "d": "Scot Consultoria (fechamento 14/08): o bezerro Nelore macho de 12 meses em Minas está a <b>R$ 3.400/cab</b> (R$ 14,17/kg), ante R$ 3.350 na semana anterior. MG segue mais barata que SP (R$ 3.415), GO (R$ 3.560) e MS (R$ 3.745), mas <b>subindo junto</b> — é o melhor patamar de 2026 para quem vende bezerro." },
-    { "tag": "Reposição", "ico": "⚖️", "cor": "ok", "t": "Arroba do bezerro sobe 0,8% na semana e se aproxima de R$ 500", "d": "FarmNews (11/08): a arroba do bezerro foi a <b>R$ 488,40</b>, a <b>maior alta da semana</b> entre as commodities agrícolas. Um boi gordo de 20@ compra hoje <b>2,06 bezerros</b> (era 1,93 em julho). Atenção: o peso médio de venda caiu de ~220 kg para <b>menos de 210 kg</b> — o preço por cabeça só não subiu mais porque o bezerro está saindo mais leve. Expectativa de reposição <b>firme e valorizada</b> até o fim de 2026." },
-    { "tag": "Mercado", "ico": "🐂", "cor": "ok", "t": "Boi gordo firme em MG: R$ 330 a R$ 341/@ e Cepea a R$ 346,75", "d": "Scot (14/08): boi gordo à vista a <b>R$ 341/@ em BH</b>, R$ 336 no Triângulo e <b>R$ 333/@ no Norte de Minas</b>; vaca gorda de R$ 308 a R$ 324/@. Em 25 das 33 praças o preço <b>não mudou</b> no dia e as escalas de abate estão em ~6 dias úteis. O indicador Cepea/B3 está em <b>R$ 346,75/@</b> (estável). Termômetro firme = bezerro sustentado." },
-    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "warn", "t": "China já usou 90% da cota e embarques caem 17,9% em agosto", "d": "Até o início de agosto a China havia desembaraçado <b>995,4 mil t</b> de carne brasileira — <b>90% da cota</b> de 1,106 milhão de t com tarifa de 12%; o que passar disso paga <b>55%</b>. As exportações de agosto recuam <b>17,9%</b>, com preço médio de US$ 6,2 mil/t. É o principal risco de baixa para a arroba no 4º trimestre." },
-    { "tag": "Câmbio", "ico": "💵", "cor": "ok", "t": "Dólar a R$ 5,22 — maior sequência de altas de 2026", "d": "O dólar fechou 14/08 a <b>R$ 5,2199</b> (+0,52%), maior valor desde março, após a maior sequência de altas do ano. Câmbio mais alto <b>ajuda a exportação</b> e segura a arroba, mas encarece insumo: milho subiu a <b>R$ 66,35/saca</b> (Cepea, 14/08) e a soja opera perto de <b>R$ 138/saca</b> no Triângulo Mineiro." },
-    { "tag": "Clima", "ico": "☀️", "cor": "warn", "t": "Inmet mantém alerta: agosto a outubro seco e quente em MG", "d": "O <b>Inmet</b> projeta chuva <b>abaixo da média</b> e calor acima do normal em Minas até outubro; a estiagem deve <b>reduzir a forragem</b> e aumentar a necessidade de suplementação — com milho a R$ 66/saca, isso pesa direto no custo da cria. Do lado do leite, o preço ao produtor em MG segue firme em <b>R$ 2,89/litro</b> e o Queijo Minas Artesanal em <b>R$ 25,61/kg</b> ao produtor (Faemg-Senar/Sebrae)." }
+    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro em MG salta para R$ 3.601/cab — +6% em uma semana", "d": "Scot Consultoria (cotação de 21/08): o bezerro Nelore macho de 12 meses em Minas está a <b>R$ 3.601,49/cab</b> (R$ 15,01/kg), contra R$ 3.400 na semana passada — <b>alta de ~6% em sete dias</b> e novo topo do ano. MG já paga mais que <b>SP (R$ 3.378)</b> e está perto de <b>GO (R$ 3.678)</b>, ainda abaixo de <b>MS (R$ 3.941)</b>. É o melhor momento de 2026 para quem vende bezerro." },
+    { "tag": "Reposição", "ico": "📈", "cor": "ok", "t": "Bezerro é o elo que mais valoriza na pecuária em 2026: +9,6% no ano", "d": "Cepea (até 19/08): o bezerro acumula <b>+9,60% em 2026</b>, à frente do boi gordo e da carcaça casada. A combinação de <b>retenção de matrizes</b>, oferta menor de animais e <b>peso médio de venda mais baixo</b> deve sustentar o preço firme até o fim do ano — cenário favorável à atividade de <b>cria</b>. O indicador Bezerro Esalq/BM&F está em <b>R$ 3.393/cab</b> (média nacional), abaixo da praça mineira." },
+    { "tag": "Mercado", "ico": "🐂", "cor": "ok", "t": "Boi gordo firme em MG: R$ 338/@ no Norte de Minas e R$ 344 em BH", "d": "Scot (fechamento 20/08): boi gordo à vista a <b>R$ 344/@ em BH</b>, <b>R$ 338/@ no Norte de Minas</b> e no Triângulo, R$ 329 no Sul de Minas; vaca gorda de <b>R$ 311 a R$ 324/@</b>. O indicador <b>Cepea/B3 fechou 21/08 a R$ 343,20/@</b> (-0,72% no dia). Termômetro em alta na semana (era R$ 333 no Norte de Minas) — quando o boi firma, o bezerro tende a acompanhar." },
+    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "warn", "t": "China: 90% da cota já usada; acima disso, tarifa extra de 55%", "d": "A salvaguarda chinesa vale de <b>2026 a 2028</b> e fixou a cota do Brasil em <b>1,106 milhão de t</b> com tarifa de 12%; ao esgotar o limite, entra <b>tarifa adicional de 55%</b> três dias depois. O Brasil já desembaraçou <b>90% da cota</b>. É o principal risco de baixa para a arroba no 4º trimestre — e, por tabela, para o bezerro em 2027." },
+    { "tag": "Câmbio", "ico": "💵", "cor": "info", "t": "Dólar recua a R$ 5,14 e insumos seguem caros", "d": "O dólar fechou 21/08 a <b>R$ 5,1417</b> (-1,00% no dia, <b>-1,53% na semana</b>), acompanhando o enfraquecimento global da moeda. Câmbio mais baixo <b>tira um pouco de força da exportação</b>, mas não travou o mercado interno. Do lado do custo: milho Cepea a <b>R$ 67,90/saca</b> (21/08) e soja no <b>Triângulo Mineiro a R$ 145/saca</b> (22/08) — ambos em alta." },
+    { "tag": "Clima", "ico": "☀️", "cor": "warn", "t": "Inmet: seca segue até outubro; primeiras chuvas só no fim de setembro", "d": "O <b>Inmet</b> mantém chuva <b>abaixo da média</b> e calor acima do normal em Minas no trimestre agosto-outubro, com umidade abaixo de 30% à tarde; as primeiras pancadas devem vir <b>entre meados e o fim de setembro</b>. Pasto fraco + milho a R$ 68/saca = <b>custo de suplementação em alta</b> na cria. No leite, o preço ao produtor em MG segue em <b>R$ 2,89/litro</b> (último dado Cepea, referência junho, +4,33%) e o Queijo Minas Artesanal em <b>R$ 25,61/kg</b> ao produtor (Faemg-Senar/Sebrae)." }
   ]
 }

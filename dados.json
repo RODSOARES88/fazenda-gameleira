@@ -1,12 +1,12 @@
 {
-  "atualizado": "09/11/2026",
-  "fonte": "Curadoria via web (Scot Consultoria via Notícias Agrícolas e site da Scot, Cepea/Esalq via Folha Agrícola e Notícias Agrícolas, Conseleite-MG via MilkPoint, Inmet/Itatiaia/Poços Já, Agrolink/TMC sobre o câmbio, Portal do Agronegócio/Portal Benews sobre a cota chinesa). Valores de referência, datados — não é feed de bolsa em tempo real.",
-  "arroba": { "norteMG": 374.0, "cepea": 392.7, "vacaMG": 344.5, "sp": 383.0 },
+  "atualizado": "16/11/2026",
+  "fonte": "Curadoria via web (Scot Consultoria — reposição MG 13/11 e boi/vaca 12/11 via site da Scot e Notícias Agrícolas; Cepea/Esalq boi, milho e soja Paranaguá 13/11 via Notícias Agrícolas; Conseleite-MG via boletim SEAPA-MG; Agência Brasil/O Povo sobre o câmbio; Inmet/Agência Minas sobre o clima; Diário de Pernambuco/BrasilAgro/Compre Rural sobre a cota chinesa). Valores de referência, datados — não é feed de bolsa em tempo real.",
+  "arroba": { "norteMG": 379.0, "cepea": 395.4, "vacaMG": 351.0, "sp": 388.0 },
   "cestas": {
     "🐂 Gado": [
-      { "item": "Boi gordo", "val": "R$ 374,00", "un": "/@ MG", "tend": "up" },
-      { "item": "Vaca gorda", "val": "R$ 344,50", "un": "/@ MG", "tend": "up" },
-      { "item": "Bezerro (reposição)", "val": "R$ 3.835", "un": "/cab Nelore", "tend": "down" }
+      { "item": "Boi gordo", "val": "R$ 379,00", "un": "/@ MG", "tend": "up" },
+      { "item": "Vaca gorda", "val": "R$ 351,00", "un": "/@ MG", "tend": "up" },
+      { "item": "Bezerro (reposição)", "val": "R$ 4.026", "un": "/cab Nelore", "tend": "up" }
     ],
     "🧀 Leite & Queijo": [
       { "item": "Leite ao produtor", "val": "R$ 2,81", "un": "/litro MG", "tend": "down" },
@@ -17,16 +17,16 @@
     ],
     "🌽 Insumos & Câmbio": [
       { "item": "Milho", "val": "R$ 67", "un": "/saca 60kg", "tend": "up" },
-      { "item": "Soja", "val": "R$ 152", "un": "/saca 60kg", "tend": "flat" },
-      { "item": "Dólar", "val": "R$ 5,51", "un": "/US$", "tend": "up" }
+      { "item": "Soja", "val": "R$ 164", "un": "/saca 60kg", "tend": "up" },
+      { "item": "Dólar", "val": "R$ 5,65", "un": "/US$", "tend": "up" }
     ]
   },
   "noticias": [
-    { "tag": "Reposição", "ico": "🐮", "cor": "warn", "t": "Bezerro em MG recua 3,4%: R$ 3.835/cab", "d": "Scot Consultoria (fechamento de <b>06/11</b>): bezerro Nelore de 12 meses (240 kg) em Minas a <b>R$ 3.835,42/cab</b> (R$ 15,98/kg), contra R$ 3.971,75 em 30/10 (<b>−3,4%</b>). Na contramão, o garrote de 18 meses subiu a <b>R$ 4.780,23</b> e a bezerra a <b>R$ 3.121,56</b>. Relação de troca caiu para <b>10,1 arrobas</b> — sem pressa para vender o bezerro desmamado agora." },
-    { "tag": "Mercado", "ico": "🐂", "cor": "ok", "t": "Cepea renova recorde: R$ 392,70/@; SP já vê R$ 400", "d": "O <b>Indicador Cepea fechou 06/11 a R$ 392,70/@</b>, maior valor nominal da série, e houve lotes pontuais a <b>R$ 400/@</b> em SP. Na Scot (05/11, à vista), o <b>Norte de Minas foi a R$ 374/@</b> (+R$ 3 na semana), BH a R$ 381 e SP a R$ 383. Motivo: <b>oferta curta de boi terminado</b>, escalas de 5 a 7 dias." },
-    { "tag": "Mercado", "ico": "🐄", "cor": "ok", "t": "Vaca gorda no Norte de MG sobe a R$ 344,50/@", "d": "Scot (06/11): vaca gorda no <b>Norte de Minas a R$ 344,50/@</b> à vista (R$ 348 a prazo), <b>+R$ 6</b> desde 30/10; BH a R$ 356. Bom momento para <b>descartar matriz</b> vazia ou velha." },
-    { "tag": "Câmbio", "ico": "💵", "cor": "warn", "t": "Dólar fecha a semana em R$ 5,51 (+1,2%)", "d": "O dólar comercial terminou <b>06/11</b> a cerca de <b>R$ 5,51</b> (+0,4% no dia; <b>+1,2% na semana</b>), reagindo a dados de emprego dos EUA. Real fraco <b>ajuda a carne exportada</b>, mas encarece insumos — o <b>milho subiu a R$ 66,77</b>/saca no Cepea (06/11)." },
-    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "info", "t": "China: cota de 2026 esgotada; olho em 2027", "d": "Excedente segue pagando <b>67%</b> de tarifa. Frigoríficos embarcam em novembro para a carne chegar em <b>janeiro</b>, já na cota de 2027 (~<b>1,13 milhão de t</b>), que a Abiec teme esgotar <b>até março</b>. Exportação de outubro caiu ~<b>40%</b> ante out/2025, mas a arroba subiu mesmo assim pela falta de boi." },
-    { "tag": "Clima", "ico": "🌧️", "cor": "ok", "t": "Chuva chega ao Norte de MG; Inmet alerta tempestades", "d": "O Inmet previa os maiores acumulados no <b>norte de Minas a partir de 08/11</b>, com 20 a 60 mm na maior parte do estado, e emitiu <b>alerta de tempestade</b> para MG em <b>09/11</b>. Chuva firme favorece a <b>rebrota do pasto</b> e tira a pressão para vender. Leite segue na referência Conseleite-MG de <b>R$ 2,81/litro</b> (out, −1,9%)." }
+    { "tag": "Reposição", "ico": "🐮", "cor": "ok", "t": "Bezerro em MG volta a subir: R$ 4.026/cab (+5%)", "d": "Scot Consultoria (fechamento de <b>13/11</b>): bezerro Nelore de 12 meses (240 kg) em Minas a <b>R$ 4.026,38/cab</b> (R$ 16,78/kg), contra R$ 3.835,42 em 06/11 (<b>+5,0%</b>). A desmama (8 meses, 195 kg) vale <b>R$ 3.628,52</b> e a bezerra <b>R$ 3.146,73</b>. Relação de troca subiu para <b>10,5 arrobas</b> — o mercado volta a pagar mais pelo bezerro." },
+    { "tag": "Mercado", "ico": "🐂", "cor": "ok", "t": "Cepea renova recorde: R$ 395,40/@", "d": "O <b>Indicador Cepea fechou 13/11 a R$ 395,40/@</b>, novo recorde nominal (+0,7% na semana), e o contrato de novembro na B3 roda perto de <b>R$ 401</b>. Na Scot (12/11, à vista), o <b>Norte de Minas foi a R$ 379/@</b> (+R$ 5 na semana), BH a R$ 384 e SP a R$ 388. Oferta de boi terminado segue curta." },
+    { "tag": "Mercado", "ico": "🐄", "cor": "ok", "t": "Vaca gorda no Norte de MG sobe a R$ 351/@", "d": "Scot (12/11): vaca gorda no <b>Norte de Minas a R$ 351/@</b> à vista, <b>+R$ 6,50</b> sobre a semana anterior; BH a R$ 364. Segue bom momento para <b>descartar matriz</b> vazia ou velha." },
+    { "tag": "Câmbio", "ico": "💵", "cor": "warn", "t": "Dólar dispara 2,6% na semana e fecha a R$ 5,65", "d": "O dólar comercial fechou <b>13/11</b> a <b>R$ 5,65</b>, com <b>alta de cerca de 2,6% na semana</b>, maior nível desde meados de 2025. Real fraco <b>sustenta a carne exportada</b> e puxou a <b>soja a R$ 164,49</b> (Paranaguá, +3,8% na semana), mas encarece insumos — <b>milho a R$ 67,34</b>/saca (Cepea, 13/11)." },
+    { "tag": "Geopolítica", "ico": "🇨🇳", "cor": "info", "t": "China: embarques de novembro já miram a cota de 2027", "d": "Com a cota de 2026 esgotada, o excedente paga <b>67%</b> de tarifa. Os embarques de novembro chegam à China em janeiro e entram na cota de 2027 (<b>1,128 milhão de t</b>), que o setor projeta esgotar <b>entre março e abril</b>. O ritmo diário de exportação de carne in natura <b>reagiu no início de novembro</b>." },
+    { "tag": "Clima", "ico": "🌦️", "cor": "warn", "t": "Chuva irregular em MG; Inmet vê novembro abaixo da média", "d": "Para a semana de 9 a 16/11 o Inmet previu chuva mais concentrada no <b>oeste e leste de Minas</b> (20–40 mm), com <b>pancadas isoladas no Norte</b> e trégua no meio da semana. A previsão mensal aponta <b>acumulados abaixo da média</b> em MG — acompanhar a rebrota do pasto. Leite segue na referência Conseleite-MG de <b>R$ 2,81/litro</b>." }
   ]
 }
